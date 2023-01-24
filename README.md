@@ -1,1 +1,1 @@
-# skoda
+#veteran=škoda1000 
